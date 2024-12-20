@@ -2,6 +2,6 @@
 I'm **Ansen Bey**, a passionate Full-Stack Developer 🚀 from **Guwahati, Assam**.
 
 ## 📫 How to Reach Me
-- 🌐 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+🌐 Portfolio: [Ansen Bey](https://www.ansenbey.com)  
+✉️ Email: [ansenbeyc73@gmail.com](mailto:ansenbeyc73@gmail.com)  
+💼 LinkedIn: [Ansen Bey](https://www.linkedin.com/in/ansen-bey-b27977209/)
