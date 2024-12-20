@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm **[Ansen Bey]**, a passionate Full-Stack Developer 🚀 from **[Guwahati, Assam]**.
+I'm **Ansen Bey**, a passionate Full-Stack Developer 🚀 from **Guwahati, Assam**.
 
 ## 📫 How to Reach Me
 - Portfolio: [Ansen Bey](https://www.ansenbey.com)
